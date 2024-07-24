@@ -1,0 +1,10 @@
+#request user to input their name
+#store it in variable called first_name
+#print first_name along with hello world
+
+
+#requests user to enter their age
+#store it in variable called age
+#if user is older or equal to 18 then print youre old enough
+#if user is older or equal to 16 but younger than 18 then print almost there
+#if user is younger or not equal to 16 then print youre just too young
